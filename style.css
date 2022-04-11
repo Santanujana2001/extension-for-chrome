@@ -1,0 +1,25 @@
+*{
+    background-image: linear-gradient(to bottom right, rgba(242, 255, 0, 0.99), rgb(0, 162, 255));   
+    height: 100px;
+    width: 600px;
+    margin: 0;
+    padding: 0;
+}
+body{
+   padding: 10px;
+   background-repeat: no-repeat;
+}
+p{  
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-family:Fantasy,Georgia, serif;
+    font-style: italic;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px rgb(0, 217, 255);
+    border: 2.5px double rgb(255, 0, 111);
+    border-radius: 15px;
+    width: 95%;
+}   
+

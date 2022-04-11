@@ -1,0 +1,14 @@
+{
+    "name":"🤯 Amazing Facts 🤯",
+    "version":"0.1",
+    "manifest_version":3,
+    "action":{
+     "default_popup":"index.html"
+    
+    },
+    "icons":{
+        "300":"haha.png"
+    }
+
+  
+}
